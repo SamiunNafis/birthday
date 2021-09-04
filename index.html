@@ -3,8 +3,8 @@
 <head>
 	<title>Test it out</title>
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
-	<meta property="og:title" content="Ganesh Chaturthi">
-<!--	<meta property="og:url" content="http://ganeshchaturthi.rf.gd/">-->
+	<meta property="og:title" content="Test">
+	<meta property="og:url" content="https://samiunnafis.github.io/aGFwcHkg/">
 	<meta property="og:local" content="en">
 	<meta property="og:site_name" content="Test">
 	<meta property="og:type" content="website">
@@ -131,7 +131,8 @@
 			opacity:0;
 		    animation:text1 1s 1;
 		    animation-delay:1s;
-		  animation-fill-mode:forwards;
+		    animation-fill-mode:forwards;
+		    font-size:1.2rem;
 		}
 		@keyframes text {
 			0% {
@@ -427,6 +428,7 @@
 			balloons[i].style.margin = `${(Math.random() * 30) + 20}px ${(Math.random() * 20) + 20}px`
 		}
 	
+		setTimeout(() => document.title = 'HAPPY BIRTHDAY, PAYAL!', 100)
 	
 		window.requestAnimFrame = (function() {
 		    return window.requestAnimationFrame ||
