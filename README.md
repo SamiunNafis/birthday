@@ -2,6 +2,9 @@
 
 A simple birthday template for someone's upcoming birthday.<br>
 Don't forget to impress them using this open source project on their birthday!
+<p align="center">
+	<img width="100px" src="poster.jpg">
+</p>
 
 ## Usage
 * **How to change name:** To change the name in the site, you have to add ``` ?name= ``` parameter in the URL.

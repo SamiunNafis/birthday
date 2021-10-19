@@ -8,7 +8,7 @@ for (let i = 0; i < balloons.length; i++) {
 	balloons[i].style.margin = `${(Math.random() * 30) + 20}px ${(Math.random() * 20) + 20}px`
 }
 
-setTimeout(() => document.title = 'HAPPY BIRTHDAY, PAYAL!', 100)
+setTimeout(() => document.title = `HAPPY BIRTHDAY, ${q}!`, 100)
 
 window.requestAnimFrame = (function() {
     return window.requestAnimationFrame ||
