@@ -1,4 +1,4 @@
-# Happy Birthday
+# [Happy Birthday](https://samiunnafis.github.io/birthday)
 
 A simple birthday template for someone's upcoming birthday.<br>
 Don't forget to impress them using this open source project on their birthday!
