@@ -402,7 +402,7 @@
 		
 		<div id="text" class="text">
 		  <h1>happy birthday!</h1>
-		  <p>Payal</p>
+		  <p id="name"></p>
 		</div>
 		
 		<div class="loons">
@@ -421,7 +421,10 @@
 	
 	<script type="text/javascript">
 	
-			
+		let q = new URLSearchParams(window.location.search).get('name')
+		q = q || "User"
+		let name = document.getElementById('name')
+		name.innerText = q
 		let balloons = document.querySelectorAll('.balloon')
 		
 		for (let i = 0; i < balloons.length; i++) {
