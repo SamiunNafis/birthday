@@ -20,5 +20,5 @@ This example will show "Happy Birthday Samiun" in the website. By default, the n
 <br>
 **Fireworks animation** &middot; [Codepen](https://codepen.io/whqet/pen/Auzch) ©Haiqing Wang
 <br>
-**Google Lato font** &middot; [SIL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+**Google Lato font** &middot; [SIL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) ©Google
 <p align="center">©2021 Samiun Nafis.</p>
