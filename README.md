@@ -14,8 +14,7 @@ https://samiunnafis.github.io/birthday?name=Samiun
 ```
 
 This example will show "Happy Birthday Samiun" in the website. By default, the name would be set as **User**.
-
-<br>
+<br><br>
 ### Open source codes:
 **Cake animation** &middot; [Codepen](https://codepen.io/JensJ/pen/MzZrbw) ©Jens Jensen
 <br>
